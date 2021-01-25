@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/protravelete/static/css/main.48d754b7.chunk.css",
+    "main.js": "/protravelete/static/js/main.8a4bfde0.chunk.js",
+    "main.js.map": "/protravelete/static/js/main.8a4bfde0.chunk.js.map",
+    "runtime-main.js": "/protravelete/static/js/runtime-main.81c0144e.js",
+    "runtime-main.js.map": "/protravelete/static/js/runtime-main.81c0144e.js.map",
+    "static/css/2.47b29202.chunk.css": "/protravelete/static/css/2.47b29202.chunk.css",
+    "static/js/2.560b8086.chunk.js": "/protravelete/static/js/2.560b8086.chunk.js",
+    "static/js/2.560b8086.chunk.js.map": "/protravelete/static/js/2.560b8086.chunk.js.map",
+    "static/js/3.4d5a9304.chunk.js": "/protravelete/static/js/3.4d5a9304.chunk.js",
+    "static/js/3.4d5a9304.chunk.js.map": "/protravelete/static/js/3.4d5a9304.chunk.js.map",
+    "index.html": "/protravelete/index.html",
+    "static/css/2.47b29202.chunk.css.map": "/protravelete/static/css/2.47b29202.chunk.css.map",
+    "static/css/main.48d754b7.chunk.css.map": "/protravelete/static/css/main.48d754b7.chunk.css.map",
+    "static/js/2.560b8086.chunk.js.LICENSE.txt": "/protravelete/static/js/2.560b8086.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81c0144e.js",
+    "static/css/2.47b29202.chunk.css",
+    "static/js/2.560b8086.chunk.js",
+    "static/css/main.48d754b7.chunk.css",
+    "static/js/main.8a4bfde0.chunk.js"
+  ]
+}

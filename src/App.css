@@ -167,3 +167,16 @@ img {
   max-height: 100%;
   max-width: 100%;
 }
+
+#logo{ 
+  position: static;
+	top:0; 
+	left:0; 
+} 
+
+#spacer{ 
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+} 

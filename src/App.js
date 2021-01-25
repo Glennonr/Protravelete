@@ -8,8 +8,9 @@ function App() {
     <div className="App">
       <div class = "background">
         <div class ="welcome">
-          <a href=""><img src="https://iili.io/2nJ52n.md.png" alt="2nJ52n.md.png" border="0"/></a>
+          <a href=""><img src="https://iili.io/2nJ52n.md.png" alt="2nJ52n.md.png" id="logo"/></a>
         </div>
+        <div id="spacer"></div>
         <div id="buttons">
           <Buttons/>
         </div>

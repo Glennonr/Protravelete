@@ -153,3 +153,17 @@ h1 {
   padding-left: 25px;
   padding-right: 25px;
 }
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+img {
+  padding: 0;
+  display: block;
+  margin: 0 auto;
+  max-height: 100%;
+  max-width: 100%;
+}

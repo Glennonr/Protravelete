@@ -17,7 +17,7 @@ function App() {
           <br/><br/><br/><br/>
           <hr/>          <hr/>
           <hr/>
-            <img src="https://i.ibb.co/qjzyH1J/Scroll-copy.jpg" width="1420" height="200" alt="Group Runners" />
+            <img src="https://i.ibb.co/qjzyH1J/Scroll-copy.jpg" alt="Group Runners" max-height="100%" max-width="100%"/>
           <h1>About:</h1>
           
           <p>Have you ever been out of town somewhere new and not known where to run? 

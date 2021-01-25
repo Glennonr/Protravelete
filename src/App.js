@@ -27,7 +27,9 @@ function App() {
             ProTravelete works to connect like-minded athletes to make running on the go easier. 
             Nobody knows running path and the places to be better than the people who run them daily, 
             so why was there no easy way to connect with one of them?<br/></p>
-            <img src = 'https://discoveries.childrenshospital.org/wp-content/uploads/2020/03/Running.jpeg'  align = 'left' width="300" height="200" id = 'hp'/>
+            {/* <div width='10' height='10'>
+            <img src = 'https://discoveries.childrenshospital.org/wp-content/uploads/2020/03/Running.jpeg'  id = 'hp'/>
+            </div> */}
             <h1>How it Works:</h1>
             <p>if you are a runner and want to put your name on the list of events for others to join, 
             click the 'Sign Up an Athlete' button. 

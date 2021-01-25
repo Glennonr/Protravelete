@@ -54,7 +54,6 @@ export default class ShowAllEvents extends Component {
      {  
       Header: 'Email',  
       accessor: 'email',
-      minWidth: 200,
       Cell: (row) => {
         return <a href={`mailto:${row.original.email}?subject=Protravelete%20Running%20Buddy&body=Hi%20I%20clicked%20your%20event%20on%20Protravelete.com%20and%20would%20love%20to%20go%20run%20with%20you!%20`} target="_blank">{row.original.email}</a>
       }}

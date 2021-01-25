@@ -27,7 +27,7 @@ html,body { height:100%; }
 
 .welcome {
   float: left;
-  width: 1000px;
+  width: 100%;
   overflow: auto;
   padding: 10px;
 }
@@ -168,13 +168,13 @@ img {
   max-width: 100%;
 }
 
-/* #logo{ 
+#logo{ 
   padding: 0;
   display: block;
   margin: 0 auto;
   max-height: 100%;
   max-width: 100%;
-}  */
+} 
 
 #spacer{ 
   padding-top: 80px;

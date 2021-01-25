@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Protravelete/static/css/main.818c3d6a.chunk.css",
-    "main.js": "/Protravelete/static/js/main.e61c4a1f.chunk.js",
-    "main.js.map": "/Protravelete/static/js/main.e61c4a1f.chunk.js.map",
+    "main.css": "/Protravelete/static/css/main.73701d96.chunk.css",
+    "main.js": "/Protravelete/static/js/main.70f03757.chunk.js",
+    "main.js.map": "/Protravelete/static/js/main.70f03757.chunk.js.map",
     "runtime-main.js": "/Protravelete/static/js/runtime-main.18cd7a0e.js",
     "runtime-main.js.map": "/Protravelete/static/js/runtime-main.18cd7a0e.js.map",
     "static/css/2.47b29202.chunk.css": "/Protravelete/static/css/2.47b29202.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.4d5a9304.chunk.js.map": "/Protravelete/static/js/3.4d5a9304.chunk.js.map",
     "index.html": "/Protravelete/index.html",
     "static/css/2.47b29202.chunk.css.map": "/Protravelete/static/css/2.47b29202.chunk.css.map",
-    "static/css/main.818c3d6a.chunk.css.map": "/Protravelete/static/css/main.818c3d6a.chunk.css.map",
+    "static/css/main.73701d96.chunk.css.map": "/Protravelete/static/css/main.73701d96.chunk.css.map",
     "static/js/2.560b8086.chunk.js.LICENSE.txt": "/Protravelete/static/js/2.560b8086.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.18cd7a0e.js",
     "static/css/2.47b29202.chunk.css",
     "static/js/2.560b8086.chunk.js",
-    "static/css/main.818c3d6a.chunk.css",
-    "static/js/main.e61c4a1f.chunk.js"
+    "static/css/main.73701d96.chunk.css",
+    "static/js/main.70f03757.chunk.js"
   ]
 }
